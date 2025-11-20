@@ -22,6 +22,8 @@
 ```powershell
 flutter clean
 flutter pub get
+# توليد الملفات الناقصة
+flutter create .
 # إعادة توليد محولات Hive 
 dart run build_runner build --delete-conflicting-outputs
 # شغّل التطبيق على منصة Windows
