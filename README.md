@@ -27,5 +27,4 @@ dart run build_runner build --delete-conflicting-outputs
 # شغّل التطبيق على منصة Windows
 flutter run -d windows -v
 ```
-# الصور 
 
