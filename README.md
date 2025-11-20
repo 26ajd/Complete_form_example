@@ -29,7 +29,7 @@ flutter pub get
 flutter create .
 # إعادة توليد محولات Hive 
 dart run build_runner build --delete-conflicting-outputs
-# شغّل التطبيق على منصة Windows
-flutter run -d windows -v
+# شغّل التطبيق 
+flutter run 
 ```
 
